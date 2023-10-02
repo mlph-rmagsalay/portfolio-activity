@@ -1,0 +1,38 @@
+.logo.img-fluid {
+    max-width: 30%;
+    height: auto;
+}
+
+#about {
+    background-color: #f8f6f4;
+}
+
+#about {
+    margin: 0;
+}
+
+#personal-info {
+    background-color: #f8f6f4;
+}
+
+#projects {
+    background-color: #f8f6f4;
+}
+
+#personal-info-content h2,
+#personal-info-content h5 {
+    margin-bottom: 20px;
+}
+
+.project-item {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: 20px;
+}
+
+.nav-item a:hover {
+    color: #f8f6f4;
+}
